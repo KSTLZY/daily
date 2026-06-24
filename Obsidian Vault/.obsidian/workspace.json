@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "040726225823fb42",
+    "type": "split",
+    "children": [
+      {
+        "id": "41acd647ffd8e294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40acda89a87f2b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/20-11-30高考.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20-11-30高考"
+            }
+          },
+          {
+            "id": "6b243f56ff48a583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-06-24-23-41.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-24-23-41"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9092aba3fea8fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb435817150b5123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d396e7932f1041",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "96db796d3a81e15d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "不得",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ea01876fcbeaf871",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d2f5a1188b80cb0b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "0caa2bf7ffca410e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6d2ad3d661539250",
+    "type": "split",
+    "children": [
+      {
+        "id": "7063344468635a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d23742252023ec7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/20-11-30高考.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "20-11-30高考 的出链列表"
+            }
+          },
+          {
+            "id": "c157bf2b31d9b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "70205fb01eb96e02",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6203d51b081cb23c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/20-11-30高考.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "20-11-30高考 的大纲"
+            }
+          },
+          {
+            "id": "dcd06e82182f4b8e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "日记/20-11-30高考.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "c6eb6802a8eb7426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/20-11-30高考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20-11-30高考 的反向链接列表"
+            }
+          },
+          {
+            "id": "68eecbca354382fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "973fc58c111afee1",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "iconic:打开规则书": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6b243f56ff48a583",
+  "lastOpenFiles": [
+    "日记/20-11-30高考.md",
+    "日记/2026-06-24-23-41.md",
+    "日记/2026-06-24-21-25.md",
+    "Pasted image 20260624224839.png",
+    "日记/2026-06-24-21-28.md",
+    "日记/2026-06-24-18-39.md",
+    "日记/Untitled.md",
+    "日记/![[effa1a98d57c9c9bbc98b8e2a2a749ec.jpg]].md",
+    "effa1a98d57c9c9bbc98b8e2a2a749ec.jpg",
+    "Pasted image 20260624201219.png",
+    "日记/2026-06-20-19-49.md",
+    "日记/2026-06-20-00-39.md",
+    "日记/2026-06-20-00-31.md",
+    "assets/assets.md",
+    "Vault.md",
+    "日记/2026-06-19-00-46.md",
+    "assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf.md",
+    "assets/images/help/site-policy",
+    "assets/images/help",
+    "assets/images",
+    "assets",
+    "日记/2026-06-17-23-21.md",
+    "Obsidian Vault 1.md",
+    "Obsidian Vault.md",
+    "日记/2026-06-17-00-4.md",
+    "日记/2026-06-16-23-53.md",
+    "日记/2026-06-16-23-25.md",
+    "日记/2026-06-16-23-23.md",
+    "日记/2026-06-16-22-40.md",
+    "日记/日记.md",
+    "日记/2026-06-15-12-46.md",
+    "Untitled 1.md",
+    "日记/2026-06-09-20-14.md",
+    "未命名.canvas",
+    "Tags",
+    "日记/未命名.base",
+    "日记",
+    "新建文件夹",
+    "ec9cf65a8eac455cf9ee797cc2f4e1be.png",
+    "未命名 1.canvas",
+    "未命名 2",
+    "Tags/#copilot-conversation",
+    "未命名 2.canvas"
+  ]
+}

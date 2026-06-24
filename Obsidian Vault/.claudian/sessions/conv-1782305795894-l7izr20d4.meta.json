@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782305795894-l7izr20d4",
+  "providerId": "claude",
+  "title": "Explain assistant capabilities",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782305795895,
+  "updatedAt": 1782313029662,
+  "lastResponseAt": 1782313029662,
+  "sessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0",
+  "providerState": {
+    "providerSessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 469,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 15872,
+    "contextWindow": 200000,
+    "contextTokens": 16341,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}
