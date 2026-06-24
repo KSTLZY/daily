@@ -13,5 +13,7 @@
   },
   "openBehavior": "daily",
   "strictLineBreaks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "readableLineLength": false,
+  "showInlineTitle": true
 }
