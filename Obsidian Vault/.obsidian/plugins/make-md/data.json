@@ -38,13 +38,13 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
     "//gmini",
     "//未命名",
-    "//",
     "//assets",
     "//assets/assets/images/assets/images/help",
     "//assets/assets/images/assets/images/help/assets/images/help/site-policy",
+    "//Tags",
+    "//",
     "/",
     "//日记"
   ],
