@@ -14,6 +14,6 @@
   "openBehavior": "daily",
   "strictLineBreaks": true,
   "showUnsupportedFiles": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showInlineTitle": true
 }
