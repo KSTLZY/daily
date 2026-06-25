@@ -1,15 +1,16 @@
 {
   "id": "conv-1782305795894-l7izr20d4",
   "providerId": "claude",
-  "title": "你在？",
-  "titleGenerationStatus": "pending",
+  "title": "List all skill links",
+  "titleGenerationStatus": "success",
   "createdAt": 1782305795895,
-  "updatedAt": 1782399276843,
-  "lastResponseAt": 1782399276843,
+  "updatedAt": 1782402749359,
+  "lastResponseAt": 1782402749359,
   "sessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0",
   "providerState": {
     "providerSessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0"
   },
+  "currentNote": "日记/[2026-06-01-2000]最强十大科研技能每个skill到底能帮你做什么.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 469,

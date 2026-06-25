@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-06-25-23-32.md",
+                "file": "日记/命令claude code cli.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-25-23-32"
+              "title": "命令claude code cli"
             }
           },
           {
@@ -110,8 +110,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -273,6 +272,8 @@
   },
   "active": "40acda89a87f2b6f",
   "lastOpenFiles": [
+    "日记/[2026-06-01-2000]最强十大科研技能每个skill到底能帮你做什么.md",
+    "日记/命令claude code cli.md",
     "日记/2026-06-25-23-32.md",
     "Vault.md",
     "日记/2026-06-25-22-21.md",
@@ -305,8 +306,6 @@
     "日记/2026-06-17-00-4.md",
     "日记/2026-06-16-23-53.md",
     "日记/2026-06-16-23-25.md",
-    "日记/2026-06-16-23-23.md",
-    "日记/2026-06-16-22-40.md",
     "Tags",
     "日记/未命名.base",
     "日记",

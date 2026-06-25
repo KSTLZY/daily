@@ -42,10 +42,10 @@
     "//未命名",
     "//assets/assets/images/assets/images/help",
     "//assets/assets/images/assets/images/help/assets/images/help/site-policy",
-    "//日记",
     "//Tags",
     "//",
-    "/"
+    "/",
+    "//日记"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
