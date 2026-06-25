@@ -1,11 +1,11 @@
 {
   "id": "conv-1782305795894-l7izr20d4",
   "providerId": "claude",
-  "title": "Explain assistant capabilities",
-  "titleGenerationStatus": "success",
+  "title": "你在？",
+  "titleGenerationStatus": "pending",
   "createdAt": 1782305795895,
-  "updatedAt": 1782313029662,
-  "lastResponseAt": 1782313029662,
+  "updatedAt": 1782399276843,
+  "lastResponseAt": 1782399276843,
   "sessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0",
   "providerState": {
     "providerSessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0"

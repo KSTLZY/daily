@@ -40,13 +40,12 @@
   "expandedSpaces": [
     "//gmini",
     "//未命名",
-    "//assets",
     "//assets/assets/images/assets/images/help",
     "//assets/assets/images/assets/images/help/assets/images/help/site-policy",
+    "//日记",
     "//Tags",
     "//",
-    "/",
-    "//日记"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -75,7 +74,7 @@
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
-  "readableLineWidth": false,
+  "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
