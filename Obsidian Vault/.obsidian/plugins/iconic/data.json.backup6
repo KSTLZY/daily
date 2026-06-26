@@ -1,7 +1,7 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": true,
+  "showAllFileIcons": false,
   "showAllFolderIcons": false,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
