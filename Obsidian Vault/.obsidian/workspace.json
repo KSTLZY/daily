@@ -26,15 +26,12 @@
             "id": "39fd092138960aa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "日记/命令claude code cli.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "mk-core://settings"
               },
               "icon": "lucide-file",
-              "title": "命令claude code cli"
+              "title": "Settings"
             }
           },
           {
@@ -289,9 +286,9 @@
   },
   "active": "39fd092138960aa5",
   "lastOpenFiles": [
-    "日记/未命名 1.md",
     "日记/学校等待选择2026-06-26-16-32.md",
     "日记/命令claude code cli.md",
+    "日记/未命名 1.md",
     "日记/[2026-06-01-2000]最强十大科研技能每个skill到底能帮你做什么.md",
     "日记/2026-06-25-23-32.md",
     "Vault.md",
