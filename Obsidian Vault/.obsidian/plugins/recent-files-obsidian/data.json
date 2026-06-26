@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "学校等待选择2026-06-26-16-32",
-      "path": "日记/学校等待选择2026-06-26-16-32.md"
+      "basename": "建议",
+      "path": "建议.md"
     },
     {
       "basename": "命令claude code cli",
@@ -11,6 +11,10 @@
     {
       "basename": "未命名 1",
       "path": "日记/未命名 1.md"
+    },
+    {
+      "basename": "学校等待选择2026-06-26-16-32",
+      "path": "日记/学校等待选择2026-06-26-16-32.md"
     },
     {
       "basename": "[2026-06-01-2000]最强十大科研技能每个skill到底能帮你做什么",
@@ -175,10 +179,6 @@
     {
       "basename": "极限",
       "path": "极限.md"
-    },
-    {
-      "basename": "建议",
-      "path": "建议.md"
     }
   ],
   "omittedPaths": [],

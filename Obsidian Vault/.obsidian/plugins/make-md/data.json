@@ -29,7 +29,7 @@
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "mobileSpaceRowHeight": 40,
-  "bannerHeight": 200,
+  "bannerHeight": 20,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "folderNoteName": "",
@@ -43,11 +43,11 @@
     "//assets/assets/images/assets/images/help",
     "//assets/assets/images/assets/images/help/assets/images/help/site-policy",
     "//",
-    "//日记",
     "//assets",
-    "/",
     "//mk-core:",
-    "//mk-core:/mk-core:/"
+    "//mk-core:/mk-core:/",
+    "//日记",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
