@@ -7,7 +7,7 @@
       "tag": "DeepSeek",
       "vendor": "DeepSeek",
       "options": {
-        "apiKey": "sk-94b995b557014611a24b2b042422bb12",
+        "apiKey": "己删除API key",
         "baseURL": "https://api.deepseek.com",
         "model": "deepseek-reasoner",
         "parameters": {}
