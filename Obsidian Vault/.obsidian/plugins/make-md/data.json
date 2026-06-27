@@ -46,8 +46,8 @@
     "//assets",
     "//mk-core:",
     "//mk-core:/mk-core:/",
-    "//日记",
-    "/"
+    "/",
+    "//日记"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
