@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/学校等待选择.md",
+                "file": "日记/2026-06-28-22-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "学校等待选择"
+              "title": "2026-06-28-22-11"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "b253b1700657384d",
+            "id": "98aea9d8e2385cf0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -318,15 +318,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "816d59bfe2007bba",
+  "active": "01b10e9bdb6aeada",
   "lastOpenFiles": [
-    "日记/2026-06-28-18-12.md",
-    "日记/claude学校选择帮助.md",
-    "日记/学校选择提示词.md",
-    "日记/20-11-30高考.md",
+    "日记/2026-06-28-19-0.md",
+    "日记/2026-06-28-22-11.md",
     "日记/学校等待选择.md",
     "日记/学校专业和代码.md",
     "日记/学校等待选择2026-06-26-16-32.md",
+    "日记/学校选择提示词.md",
+    "日记/2026-06-28-18-12.md",
+    "日记/claude学校选择帮助.md",
+    "日记/20-11-30高考.md",
     "日记/2026-06-27-15-42.md",
     "日记/2026-06-27-23-47.md",
     "日记/2026-06-25-00-1.md",
@@ -347,10 +349,8 @@
     "Pasted image 20260624224839.png",
     "日记/2026-06-24-18-39.md",
     "日记/Untitled.md",
-    "日记/![[effa1a98d57c9c9bbc98b8e2a2a749ec.jpg]].md",
     "effa1a98d57c9c9bbc98b8e2a2a749ec.jpg",
     "Pasted image 20260624201219.png",
-    "日记/2026-06-20-19-49.md",
     "assets/images/help/site-policy",
     "assets/images/help",
     "assets/images",
