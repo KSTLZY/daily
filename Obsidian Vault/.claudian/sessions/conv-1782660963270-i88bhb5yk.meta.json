@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782660963270-i88bhb5yk",
+  "providerId": "claude",
+  "title": "Add program codes and cutoffs to file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782660963270,
+  "updatedAt": 1782662409994,
+  "lastResponseAt": 1782662409994,
+  "sessionId": "06920eaf-907d-440e-a0a5-be0dfb188fe5",
+  "providerState": {
+    "providerSessionId": "06920eaf-907d-440e-a0a5-be0dfb188fe5"
+  },
+  "currentNote": "日记/未命名 2.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 82,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 106880,
+    "contextWindow": 200000,
+    "contextTokens": 106962,
+    "percentage": 53,
+    "contextWindowIsAuthoritative": true
+  }
+}

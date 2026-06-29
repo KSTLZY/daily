@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782660058718-0lnvi7byq",
+  "providerId": "claude",
+  "title": "Add professional group codes to file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782660058718,
+  "updatedAt": 1782660340056,
+  "lastResponseAt": 1782660340056,
+  "sessionId": "45e80ab4-f994-419d-a3cf-8ff2367220db",
+  "providerState": {
+    "providerSessionId": "45e80ab4-f994-419d-a3cf-8ff2367220db"
+  },
+  "currentNote": "日记/中医药类院校填报专题.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 866,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54144,
+    "contextWindow": 200000,
+    "contextTokens": 55010,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
+}

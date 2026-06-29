@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782658464334-ujl4349h6",
+  "providerId": "claude",
+  "title": "Write school code into file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782658464335,
+  "updatedAt": 1782658510730,
+  "lastResponseAt": 1782658510729,
+  "sessionId": "d2dce13a-0b26-4e02-b561-aab8f9fa3e7c",
+  "providerState": {
+    "providerSessionId": "d2dce13a-0b26-4e02-b561-aab8f9fa3e7c"
+  },
+  "currentNote": "日记/广东的本科公办.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 107,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 15360,
+    "contextWindow": 200000,
+    "contextTokens": 15467,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}
