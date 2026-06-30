@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/现在本科.md",
+                "file": "日记/2026-06-30-23-57.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "现在本科"
+              "title": "2026-06-30-23-57"
             }
           },
           {
@@ -58,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/中医药类院校填报专题.md",
+                "file": "日记/2026-06-29-13-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "中医药类院校填报专题"
+              "title": "2026-06-29-13-13"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             }
           },
           {
-            "id": "98aea9d8e2385cf0",
+            "id": "2cbaafebc8298eff",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -141,7 +141,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -301,14 +302,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d49147062f7830bd",
+  "active": "bf73b21fa4f703a3",
   "lastOpenFiles": [
-    "日记/现在本科.md",
     "日记/中医药类院校填报专题.md",
-    "日记/专科批次填报专题.md",
-    "日记/现在专科.md",
-    "日记/未命名 2.md",
+    "日记/2026-06-30-23-57.md",
+    "日记/现在本科.md",
     "日记/广东的本科公办.md",
+    "日记/现在专科.md",
+    "日记/2026-06-29-13-13.md",
+    "日记/专科批次填报专题.md",
+    "日记/未命名 2.md",
     "日记/学校等待选择.md",
     "日记/学校专业和代码.md",
     "日记/2026年全国公办本科院校完整列表.md",
@@ -328,8 +331,6 @@
     "日记/命令claude code cli.md",
     "日记/未命名 1.md",
     "日记/[2026-06-01-2000]最强十大科研技能每个skill到底能帮你做什么.md",
-    "日记/2026-06-25-23-32.md",
-    "Vault.md",
     "未命名.canvas",
     "Pasted image 20260624224839.png",
     "effa1a98d57c9c9bbc98b8e2a2a749ec.jpg",
