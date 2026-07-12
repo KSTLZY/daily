@@ -15,5 +15,6 @@
   "strictLineBreaks": true,
   "showUnsupportedFiles": false,
   "readableLineLength": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "deleteUnlinkedAttachments": "never"
 }
