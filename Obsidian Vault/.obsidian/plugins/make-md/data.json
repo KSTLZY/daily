@@ -43,9 +43,9 @@
     "//assets/assets/images/assets/images/help",
     "//assets/assets/images/assets/images/help/assets/images/help/site-policy",
     "//",
-    "//assets",
     "//mk-core:",
     "//mk-core:/mk-core:/",
+    "//assets",
     "/",
     "//日记"
   ],
