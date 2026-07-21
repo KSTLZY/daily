@@ -2,8 +2,9 @@
   "baseFontSizeAction": true,
   "cssTheme": "Maple",
   "theme": "system",
-  "baseFontSize": 21,
+  "baseFontSize": 22,
   "interfaceFontFamily": "MiSans",
   "textFontFamily": "MiSans",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": ""
 }

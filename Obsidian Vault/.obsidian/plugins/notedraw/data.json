@@ -1,0 +1,19 @@
+{
+  "language": "auto",
+  "defaultPenColor": "#eb6f92",
+  "defaultPenWidth": 3.5,
+  "defaultPenOpacity": 1,
+  "defaultWatercolorColor": "#3b82f6",
+  "defaultWatercolorWidth": 9,
+  "defaultWatercolorOpacity": 0.45,
+  "toolbarTopOffset": 6,
+  "longPressMs": 550,
+  "selectTapDistance": 6,
+  "selectStrokePadding": 8,
+  "selectedStrokeAlpha": 0.38,
+  "drawingInterpolationStep": 1,
+  "drawingMinPointDistance": 0.05,
+  "drawingCompactDistance": 0.1,
+  "autoSaveDelayMs": 500,
+  "enableDebugLog": false
+}

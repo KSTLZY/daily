@@ -6,9 +6,12 @@
   "createdAt": 1782305795895,
   "updatedAt": 1783851078463,
   "lastResponseAt": 1783850988181,
-  "sessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0",
+  "sessionId": null,
+  "selectedModel": "haiku",
   "providerState": {
-    "providerSessionId": "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0"
+    "previousProviderSessionIds": [
+      "d7871b7b-d5c4-4705-ba5e-b4abcc2bfbd0"
+    ]
   },
   "currentNote": "日记/2026-07-12-18-6.md",
   "usage": {

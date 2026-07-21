@@ -20,7 +20,6 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": true,
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
@@ -65,5 +64,6 @@
       ],
       "enabled": true
     }
-  ]
+  ],
+  "rememberDeletedItems": true
 }

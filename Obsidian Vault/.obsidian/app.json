@@ -12,9 +12,10 @@
     "downscalePercent": 100
   },
   "openBehavior": "daily",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showUnsupportedFiles": false,
   "readableLineLength": true,
-  "showInlineTitle": true,
-  "deleteUnlinkedAttachments": "never"
+  "showInlineTitle": false,
+  "deleteUnlinkedAttachments": "never",
+  "smartIndentList": false
 }
