@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784971540980-0mk7y28kq",
+  "providerId": "claude",
+  "title": "Format document typesetting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784971540981,
+  "updatedAt": 1784971719695,
+  "lastResponseAt": 1784971719695,
+  "sessionId": "c65a270c-d4a4-47c2-a648-5251e30b40a5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "c65a270c-d4a4-47c2-a648-5251e30b40a5"
+  },
+  "currentNote": "日记/2026-07-25-17-2.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 61,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 16000,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 16061,
+    "percentage": 8
+  }
+}
