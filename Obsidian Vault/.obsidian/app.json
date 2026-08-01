@@ -15,7 +15,11 @@
   "strictLineBreaks": false,
   "showUnsupportedFiles": false,
   "readableLineLength": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "deleteUnlinkedAttachments": "never",
-  "smartIndentList": false
+  "smartIndentList": false,
+  "foldHeading": false,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "rightToLeft": false
 }
