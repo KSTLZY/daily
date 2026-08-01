@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-07-31-08-45.md",
+                "file": "日记/2026-08-01-10-35.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-31-08-45"
+              "title": "2026-08-01-10-35"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -237,8 +239,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "日记/2026-07-30-09-6.md",
     "日记/2026-07-31-08-45.md",
+    "日记/2026-08-01-10-35.md",
+    "日记/2026-07-30-09-6.md",
     "日记/2026-07-25-18-37.md",
     "日记/2026-07-26-12-38.md",
     "Pasted image 20260725184320.png",
@@ -273,7 +276,6 @@
     "日记/2026-06-29-13-13.md",
     "日记/2026-07-13-21-44.md",
     "日记/2026-07-12-20-45.md",
-    "日记/Untitled 2.md",
     "未命名 1.canvas",
     "未命名",
     "未命名.canvas",
