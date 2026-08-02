@@ -21,8 +21,45 @@
               "icon": "lucide-file",
               "title": "2026-08-01-10-41"
             }
+          },
+          {
+            "id": "14b1443e24d61cac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-02 09.16.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-02 09.16.47.excalidraw"
+            }
+          },
+          {
+            "id": "ba772b50699a3413",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-02 09.19.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-02 09.19.19.excalidraw"
+            }
+          },
+          {
+            "id": "1aa695c08b8f9703",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-02 09.19.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-02 09.19.24.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +271,19 @@
       "obsidian-importer:Open Importer": false,
       "iconic:打开规则书": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:发布更改": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1aa695c08b8f9703",
   "lastOpenFiles": [
-    "日记/2026-07-31-08-45.md",
+    "Excalidraw/Drawing 2026-08-02 09.19.19.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-02 09.19.24.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-02 09.16.47.excalidraw.md",
     "日记/2026-08-01-10-41.md",
+    "Excalidraw",
+    "日记/2026-07-31-08-45.md",
     "日记/2026-08-01-10-35.md",
     "日记/2026-07-30-09-6.md",
     "日记/2026-07-25-18-37.md",
@@ -273,9 +316,6 @@
     "日记/2026-07-21-19-52.md",
     "assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf.md",
     "Obsidian Vault 1.md",
-    "日记/2026-07-16-20-38.md",
-    "日记/2026-06-29-13-13.md",
-    "日记/2026-07-13-21-44.md",
     "未命名 1.canvas",
     "未命名",
     "未命名.canvas",
@@ -286,7 +326,6 @@
     "Tags",
     "日记/未命名.base",
     "日记",
-    "新建文件夹",
-    "未命名 2"
+    "新建文件夹"
   ]
 }
