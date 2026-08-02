@@ -62,12 +62,15 @@
             "id": "edebbacfafd6dab5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-08-02 10.11.29.excalidraw.md"
+                "file": "日记/2026-08-02-10-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-02 10.11.29.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-08-02-10-12"
             }
           }
         ],
@@ -136,8 +139,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -291,16 +293,17 @@
   },
   "active": "edebbacfafd6dab5",
   "lastOpenFiles": [
+    "日记/2026-08-01-10-41.md",
+    "日记/2026-08-02-10-12.md",
     "日记/2026-08-02-10-11.md",
-    "Excalidraw/Drawing 2026-08-02 10.11.29.excalidraw.md",
     "日记/2026-08-02-10-9.md",
+    "日记/2026-07-31-08-45.md",
+    "Excalidraw/Drawing 2026-08-02 10.11.29.excalidraw.md",
     "日记/命令claude code cli.md",
     "Excalidraw/Drawing 2026-08-02 09.19.24.excalidraw.md",
     "Excalidraw/Drawing 2026-08-02 09.19.19.excalidraw.md",
     "Excalidraw/Drawing 2026-08-02 09.16.47.excalidraw.md",
-    "日记/2026-08-01-10-41.md",
     "Excalidraw",
-    "日记/2026-07-31-08-45.md",
     "日记/2026-08-01-10-35.md",
     "日记/2026-07-30-09-6.md",
     "日记/2026-07-25-18-37.md",
@@ -328,7 +331,6 @@
     "日记/2026-05-01-07-55.md",
     "未命名 2.canvas",
     "日记/2026-07-21-19-35.md",
-    "日记/2026-07-21-20-7.md",
     "未命名 1.canvas",
     "未命名",
     "未命名.canvas",

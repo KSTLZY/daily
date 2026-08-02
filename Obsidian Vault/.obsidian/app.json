@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "vimMode": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "/",
   "pdfExportSettings": {
