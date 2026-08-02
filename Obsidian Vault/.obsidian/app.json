@@ -21,5 +21,6 @@
   "foldHeading": false,
   "foldIndent": true,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "uriCallbacks": true
 }
