@@ -26,15 +26,14 @@
             "id": "3f1b842ed7854606",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "日记/2026-08-05-00-59.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-08-05-00-59"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ],
@@ -193,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2026-08-05-00-59.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,12 +225,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +254,8 @@
   },
   "active": "3f1b842ed7854606",
   "lastOpenFiles": [
-    "日记/样本2026-08-04-23-31.md",
     "日记/2026-08-05-00-59.md",
+    "日记/样本2026-08-04-23-31.md",
     "日记/计划2026-08-04-21-53.md",
     "Pasted image 20260804232401.png",
     "Pasted image 20260804232305.png",
