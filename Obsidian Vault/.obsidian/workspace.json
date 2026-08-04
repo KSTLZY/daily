@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/样本2026-08-04-23-31.md",
+                "file": "日记/2026-08-05-00-59.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "样本2026-08-04-23-31"
+              "title": "2026-08-05-00-59"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/样本2026-08-04-23-31.md",
+                "file": "日记/2026-08-05-00-59.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,6 +258,7 @@
   "active": "3f1b842ed7854606",
   "lastOpenFiles": [
     "日记/样本2026-08-04-23-31.md",
+    "日记/2026-08-05-00-59.md",
     "日记/计划2026-08-04-21-53.md",
     "Pasted image 20260804232401.png",
     "Pasted image 20260804232305.png",
@@ -286,7 +287,6 @@
     "日记/2026-08-02-10-9.md",
     "日记/2026-07-31-08-45.md",
     "Excalidraw/Drawing 2026-08-02 10.11.29.excalidraw.md",
-    "日记/命令claude code cli.md",
     "Excalidraw",
     "Pasted image 20260725184320.png",
     "Pasted image 20260725184231.png",
